@@ -10,6 +10,7 @@ To use: build the docker image, then run it.
     $ docker run --rm sql-null-test
 
 ### Sample output:
+
    select count(*) from states;
      count
     -------
