@@ -11,7 +11,7 @@ To use: build the docker image, then run it.
 
 ### Sample output:
 
-   select count(*) from states;
+    select count(*) from states;
      count
     -------
 	 7
